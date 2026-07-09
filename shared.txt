@@ -1,0 +1,7 @@
+Pocetni sadrzaj deljenog resursa.
+Writer 1 je upisao liniju 1
+Writer 2 je upisao liniju 1
+Writer 1 je upisao liniju 2
+Writer 2 je upisao liniju 2
+Writer 2 je upisao liniju 3
+Writer 1 je upisao liniju 3
